@@ -1,5 +1,3 @@
-# Ved Nadkarni
-
 - [Link to another page](./project1.md).
 
 ### Professional Summary
