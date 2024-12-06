@@ -48,7 +48,3 @@ Accomplished technical leader with 15 years of experience in building enterprise
 
 ### Fun Fact
 I once participated in a hackathon where my team developed an app that uses machine learning to predict the best time for outdoor activities based on weather patterns. We won first place!
-
----
-
-Feel free to adjust any sections or details as needed to better reflect your personality and experiences!
