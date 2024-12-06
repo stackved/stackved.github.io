@@ -1,10 +1,12 @@
 # Hi, I’m Glad You’re Here!  
 
-Welcome to my little corner of the internet! I’m passionate about **building cool things**, solving tricky problems, and sharing what I learn along the way. With over 15 years of experience in tech, I’ve worn many hats—from developer to technical leader—delivering software that not only works but truly makes an impact.
+Welcome to my little corner of the internet! I’m passionate about programming and science, solving tricky problems, and sharing what I learn along the way. With over 15 years of experience in tech, I’ve worn many hats—from developer to technical leader—delivering software that not only works but truly makes an impact.
 
 ## **A Peek into My Journey**  
 
-My career has been a whirlwind of exciting challenges and rewarding milestones. Right now, I’m a **Software Development Manager at Preventure**, where I get to design and scale movement analytics platforms, work with cutting-edge machine learning models, and solve complex problems that span three continents. Some of the coolest things I’ve built recently include a Convolutional Neural Network (CNN) for motion classification and a seamless chat integration using AWS Chime.  
+My career has been a whirlwind of exciting challenges and  milestones. 
+
+Right now, I’m a **Software Developer**, where I get to design and scale movement analytics platforms, work with cutting-edge machine learning models, and solve complex problems that span three continents. Some of the coolest things I’ve built recently include a Convolutional Neural Network (CNN) for motion classification and a seamless chat integration using AWS Chime.  
 
 Before this, I’ve been:
 - **Turning IoT into something magical** at Azuga Inc, where we built real-time apps connected to OBD-2 devices and dabbled in machine learning.
