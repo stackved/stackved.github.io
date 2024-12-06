@@ -1,10 +1,5 @@
 # Ved Nadkarni
-## Technical Leader & Full Stack Engineer
 
-
-
-### Contact Information
-- **LinkedIn:** [Ved Nadkarni](https://www.linkedin.com/in/ved-n-4b6042199/)
 - [Link to another page](./project1.md).
 
 ### Professional Summary
