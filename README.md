@@ -1,8 +1,11 @@
 # Ved Nadkarni
 ## Technical Leader & Full Stack Engineer
 
+
+
 ### Contact Information
 - **LinkedIn:** [Ved Nadkarni](https://www.linkedin.com/in/ved-n-4b6042199/)
+- [Link to another page](./project1.md).
 
 ### Professional Summary
 Accomplished technical leader with 15 years of experience in building enterprise SAAS applications, driving excellence through an intuitive and data-driven approach. Known for my ability to lead teams through complex challenges, I have a proven track record of delivering innovative solutions that enhance user experience and drive business growth.
