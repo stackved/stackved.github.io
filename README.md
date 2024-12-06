@@ -1,46 +1,42 @@
-- [Link to another page](./project1.md).
+# Hi, I’m Glad You’re Here!  
 
-### Professional Summary
-Accomplished technical leader with 15 years of experience in building enterprise SAAS applications, driving excellence through an intuitive and data-driven approach. Known for my ability to lead teams through complex challenges, I have a proven track record of delivering innovative solutions that enhance user experience and drive business growth.
+Welcome to my little corner of the internet! I’m passionate about **building cool things**, solving tricky problems, and sharing what I learn along the way. With over 15 years of experience in tech, I’ve worn many hats—from developer to technical leader—delivering software that not only works but truly makes an impact.
 
-### Professional Experience
+## **A Peek into My Journey**  
 
-#### Software Development Manager | Preventure (Jun '19 - Present)
-- **Key Achievements:**
-  - Architected a scalable, cost-effective movement analytics platform on GCP using event-driven microservice architecture.
-  - Designed a reliable, highly available system operational across three countries, adhering to best practices.
-  - Developed and trained a Convolutional Neural Network (CNN) model for user motion classification.
-  - Integrated chat features using AWS Chime across web, backend, and mobile applications.
-  - Established CI/CD environments for seamless deployment.
+My career has been a whirlwind of exciting challenges and rewarding milestones. Right now, I’m a **Software Development Manager at Preventure**, where I get to design and scale movement analytics platforms, work with cutting-edge machine learning models, and solve complex problems that span three continents. Some of the coolest things I’ve built recently include a Convolutional Neural Network (CNN) for motion classification and a seamless chat integration using AWS Chime.  
 
-#### Senior Full Stack Engineer | Workforce Software (Jan '19 - Apr '19)
-- Collaborated with cross-functional teams in an agile environment to build high-quality products.
-- Advocated for test-driven development and automated testing to ensure code quality.
+Before this, I’ve been:
+- **Turning IoT into something magical** at Azuga Inc, where we built real-time apps connected to OBD-2 devices and dabbled in machine learning.
+- **A champion for clean code** at Workforce Software, where agile teams and test-driven development were my playground.
 
-#### Senior Full Stack Engineer | Azuga Inc - Bridgestone Company (Mar '14 - Nov '18)
-- Led mobile and backend integration efforts during the startup phase, contributing to the company's growth and acquisition by Bridgestone.
-- Engineered applications for real-time connectivity with OBD-2 devices and various IoT systems.
-- Developed proof-of-concept projects utilizing machine learning and computer vision technologies.
+## **What’s in My Toolkit?**  
 
-### Technical Skills
-- **Languages:** Java, .NET, React, Node.js, Android, iOS, Flutter
-- **Cloud Technologies:** GCP, AWS, Firebase
-- **Databases:** Postgres, MSSQL
-- **Machine Learning:** CNN, Pose Detection
-- **DevOps:** CI/CD, Serverless Architecture
+I love working with:
+- **Languages** like Java, React, Node.js, and Flutter.  
+- **Cloud Technologies** such as GCP, AWS, and Firebase.  
+- **Machine Learning** magic like CNNs and pose detection.  
+- And making deployments smooth with **CI/CD pipelines** and serverless architecture.  
 
-### Education
-**B.E in Computer Science**, VTU, Batch of 2008
+Every day is an opportunity to learn and add more tools to the kit.
 
-### Personal Projects & Interests
-- **Open Source Contributions**: Actively contribute to various open-source projects on GitHub. Passionate about sharing knowledge and collaborating with other developers.
-- **Tech Blogging**: Write articles on software development trends and best practices. Enjoy sharing insights on machine learning applications in real-world scenarios.
-- **Mentoring**: Committed to mentoring junior developers and fostering a culture of continuous learning within teams.
+## **When I’m Not Coding…**  
 
-### Hobbies
-- **Travel**: Enjoy exploring new cultures and cuisines; recently traveled to Japan and Italy.
-- **Photography**: Avid photographer with a focus on landscape and urban photography. Capturing moments during travels is a personal passion.
-- **Fitness Enthusiast**: Regularly participate in marathons and outdoor activities like hiking and cycling.
+Life isn’t all about the keyboard and monitor (though it’s pretty close sometimes). Here’s how I stay inspired:  
+- **Travel**: Wandering the streets of Japan, savoring gelato in Italy, or hiking trails in the Himalayas—I love soaking in new cultures and cuisines.  
+- **Photography**: My camera is my constant travel buddy, and landscapes and cityscapes are my favorite subjects.  
+- **Fitness**: Whether it’s running marathons or cycling through scenic routes, I love being outdoors and active.
 
-### Fun Fact
-I once participated in a hackathon where my team developed an app that uses machine learning to predict the best time for outdoor activities based on weather patterns. We won first place!
+## **My Side Quests**  
+
+- **Open Source**: Sharing knowledge is my way of giving back to the developer community.  
+- **Blogging**: Writing about tech trends and real-world ML applications keeps me sharp.  
+- **Mentoring**: I believe in growing together, so I love helping junior developers level up their skills.
+
+## **Something Fun**  
+
+A few years back, I participated in a hackathon, and my team built an app that predicts the best time for outdoor activities using machine learning and weather data. We won first place, but more importantly, we had a blast doing it!
+
+---
+
+That’s a little about me. If you’re curious about what I’ve worked on, want to chat about tech, or just share travel stories, don’t hesitate to reach out. Let’s connect and build something awesome together! 🚀 - [Link to another page](./project1.md).
