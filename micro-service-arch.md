@@ -16,3 +16,5 @@ Microservice architecture is a design approach where a system is built as a coll
 Managing inter-service communication, consistency, and debugging can be complex. Tools like API gateways and observability platforms help mitigate these issues.
 
 Microservices enable agility for modern, large-scale systems like Netflix and Amazon. They're the building blocks for scalable, resilient, and maintainable architectures.
+
+[Back to blogs](./blogs.md)
