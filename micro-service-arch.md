@@ -17,4 +17,4 @@ Managing inter-service communication, consistency, and debugging can be complex.
 
 Microservices enable agility for modern, large-scale systems like Netflix and Amazon. They're the building blocks for scalable, resilient, and maintainable architectures.
 
-[Back to blogs](./blogs.md)
+[Back to blogs](./blog.md)
