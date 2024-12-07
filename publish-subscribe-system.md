@@ -59,3 +59,7 @@
 ---
 
 Publish-subscribe systems are the backbone of scalable, decoupled, and real-time architectures used in applications like Slack, Netflix, and Uber. By choosing the right tool based on throughput, latency, and durability requirements, you can build robust and future-proof distributed systems.
+
+---
+
+[Back to blogs](./blogs.md)
