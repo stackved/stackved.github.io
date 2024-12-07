@@ -52,4 +52,10 @@
 3. **Message Retention:**  
    - Kafka: Configurable, from **seconds to weeks**.  
    - Pulsar: Long-term tiered storage.  
-4. **Lat
+4. **Latency:**  
+   - NATS: Sub-millisecond delivery.  
+   - Kafka/Pulsar: **Milliseconds to tens of milliseconds** depending on configuration.
+
+---
+
+Publish-subscribe systems are the backbone of scalable, decoupled, and real-time architectures used in applications like Slack, Netflix, and Uber. By choosing the right tool based on throughput, latency, and durability requirements, you can build robust and future-proof distributed systems.
