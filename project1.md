@@ -4,8 +4,8 @@ title: Another page
 description: This is just another page
 ---
 
-## Welcome to another page
+## Welcome to my blog
 
-_yay_
+[Microservice Architecure](./blogs/micro-service-arch.md)
 
 [back](./)
