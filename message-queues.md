@@ -57,6 +57,6 @@
 
 ---
 
-[Back to blogs](./blogs.md)
-
 Messaging queues are foundational for decoupled, reliable, and scalable architectures. Whether it's processing background tasks, managing workloads, or implementing asynchronous workflows, messaging queues like RabbitMQ, SQS, and Kafka help modern systems handle high-throughput tasks efficiently.
+
+[Back to blogs](./blog.md)
