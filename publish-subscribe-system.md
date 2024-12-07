@@ -62,4 +62,4 @@ Publish-subscribe systems are the backbone of scalable, decoupled, and real-time
 
 ---
 
-[Back to blogs](./blogs.md)
+[Back to blogs](./blog.md)
