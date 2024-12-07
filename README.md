@@ -41,4 +41,4 @@ A few years back, I participated in a hackathon, and my team built an app that p
 
 ---
 
-That’s a little about me. If you’re curious about what I’ve worked on, want to chat about tech, or just share travel stories, don’t hesitate to reach out. Let’s connect and build something awesome together! 🚀 - [Link to another page](./project1.md).
+That’s a little about me. If you’re curious about what I’ve worked on, want to chat about tech, or just share travel stories, don’t hesitate to reach out. Let’s connect and build something awesome together! 🚀 - [Link to another page](./blog.md).
